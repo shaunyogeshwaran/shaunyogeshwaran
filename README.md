@@ -31,4 +31,3 @@
 ![Docker](https://img.icons8.com/color/48/000000/docker.png "Docker")
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png "Jenkins")
 
-![](https://komarev.com/ghpvc/?username=shaunyogeshwaran)
