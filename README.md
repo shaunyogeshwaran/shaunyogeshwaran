@@ -1,6 +1,6 @@
 # Hello, I am Shaun Yogeshwaran 👨‍💻 
 - I specialize in **technical writing, web and mobile applications, SEO marketing, and full-stack development**.  
-- I am currently learning about advanced client and serverside development and machine learning.
+- I am currently learning about advanced client and serverside development.
 - Let's collaborate! Reach me [here](mailto:shaun.bahrain@gmail.com)!
 
 # My Tech Stack includes: 
